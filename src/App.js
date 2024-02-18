@@ -1,9 +1,10 @@
 import './App.css';
+import FirstComponent from './Components/firstComponent';
 
 function App() {
   return (
-    <div className="App">
-      <h1>Initial deploy checking</h1>
+    <div>
+      <FirstComponent/>
     </div>
   );
 }

@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/allaikanthan/static/css/main.f855e6bc.css",
-    "main.js": "/allaikanthan/static/js/main.c001c407.js",
+    "main.css": "/allaikanthan/static/css/main.8e35cef8.css",
+    "main.js": "/allaikanthan/static/js/main.437f33cd.js",
     "static/js/453.7cf115b5.chunk.js": "/allaikanthan/static/js/453.7cf115b5.chunk.js",
-    "static/media/logo.svg": "/allaikanthan/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/allaikanthan/index.html",
-    "main.f855e6bc.css.map": "/allaikanthan/static/css/main.f855e6bc.css.map",
-    "main.c001c407.js.map": "/allaikanthan/static/js/main.c001c407.js.map",
+    "main.8e35cef8.css.map": "/allaikanthan/static/css/main.8e35cef8.css.map",
+    "main.437f33cd.js.map": "/allaikanthan/static/js/main.437f33cd.js.map",
     "453.7cf115b5.chunk.js.map": "/allaikanthan/static/js/453.7cf115b5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.c001c407.js"
+    "static/css/main.8e35cef8.css",
+    "static/js/main.437f33cd.js"
   ]
 }
