@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/allaikanthan/static/css/main.9013493d.css",
+    "main.js": "/allaikanthan/static/js/main.4ab057b5.js",
+    "static/js/453.7cf115b5.chunk.js": "/allaikanthan/static/js/453.7cf115b5.chunk.js",
+    "static/media/muruga.jpg": "/allaikanthan/static/media/muruga.6a9321ee1b2fb79f73e0.jpg",
+    "index.html": "/allaikanthan/index.html",
+    "main.9013493d.css.map": "/allaikanthan/static/css/main.9013493d.css.map",
+    "main.4ab057b5.js.map": "/allaikanthan/static/js/main.4ab057b5.js.map",
+    "453.7cf115b5.chunk.js.map": "/allaikanthan/static/js/453.7cf115b5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9013493d.css",
+    "static/js/main.4ab057b5.js"
+  ]
+}
