@@ -2,7 +2,7 @@ import React from "react";
 
 const FirstComponent = () => {
     return(
-        <div className="mt-[100px] container 2xl:pr-[8%] 2xl:pl-[8%] pr-[5%] pl-[5%]">
+        <div className="my-[90px] container 2xl:pr-[8%] 2xl:pl-[8%] pr-[5%] pl-[5%]">
             <div className="flex gap-[60px]">
                 <div className="w-1/2"><img src="https://sktperfectdemo.com/themepack/temple/wp-content/uploads/2022/01/welcome-col-img.png" alt="shiva"/></div>
                 <div className="w-1/2">
