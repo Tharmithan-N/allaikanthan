@@ -26,6 +26,7 @@ const ThirdComponent = () => {
                     </div>
                 </div>
                 <div className='w-1/2'><img src={nallur} className='rounded-r-xl'/></div>
+                <div>Sample test deploy</div>
             </div>
         </div>
             
