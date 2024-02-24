@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/allaikanthan/static/css/main.45cd26b9.css",
-    "main.js": "/allaikanthan/static/js/main.2951ce04.js",
+    "main.css": "/allaikanthan/static/css/main.e8fcbda3.css",
+    "main.js": "/allaikanthan/static/js/main.f5742bb8.js",
     "static/js/453.7cf115b5.chunk.js": "/allaikanthan/static/js/453.7cf115b5.chunk.js",
     "static/media/muruga.jpg": "/allaikanthan/static/media/muruga.6a9321ee1b2fb79f73e0.jpg",
     "static/media/nallur.jpg": "/allaikanthan/static/media/nallur.eb0c619d616c267e8a17.jpg",
     "index.html": "/allaikanthan/index.html",
-    "main.45cd26b9.css.map": "/allaikanthan/static/css/main.45cd26b9.css.map",
-    "main.2951ce04.js.map": "/allaikanthan/static/js/main.2951ce04.js.map",
+    "main.e8fcbda3.css.map": "/allaikanthan/static/css/main.e8fcbda3.css.map",
+    "main.f5742bb8.js.map": "/allaikanthan/static/js/main.f5742bb8.js.map",
     "453.7cf115b5.chunk.js.map": "/allaikanthan/static/js/453.7cf115b5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.45cd26b9.css",
-    "static/js/main.2951ce04.js"
+    "static/css/main.e8fcbda3.css",
+    "static/js/main.f5742bb8.js"
   ]
 }
