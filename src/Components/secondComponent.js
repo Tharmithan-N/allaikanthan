@@ -29,19 +29,19 @@ const SecondComponent = () => {
       image: `${muruga}`,
       title: "Shiva Shakti",
       content:
-        "Curabitur viverra faucibusy tellus educate semper nunc finibusing placerat sed sed metus",
+        "Curabitur viverra faucibusy tellus educate semper nunc finibusing placerat sed sed metus for checking",
     },
     {
       image: `${muruga}`,
       title: "Shiva Shakti",
       content:
-        "Curabitur viverra faucibusy tellus educate semper nunc finibusing placerat sed sed metus",
+        "Curabitur viverra faucibusy tellus educate semper nunc finibusing placerat sed sed metus for checking",
     },
     {
       image: `${muruga}`,
       title: "Shiva Shakti",
       content:
-        "Curabitur viverra faucibusy tellus educate semper nunc finibusing placerat sed sed metus",
+        "Curabitur viverra faucibusy tellus educate semper nunc finibusing placerat sed sed metus for checking",
     },
   ];
 
