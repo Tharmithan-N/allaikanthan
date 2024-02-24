@@ -6,7 +6,7 @@ const Home = () => {
   return (
     <>
       <FirstComponent />
-      {/* <SecondComponent /> */}
+      {/* <SecondComponent /> // remove second component */}
       <ThirdComponent />
     </>
   );
