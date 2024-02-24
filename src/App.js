@@ -10,8 +10,8 @@ function App() {
       <Routes>
         <Route index element={<Home />} />
         <Route path="/home" element={<Home />} />
-        <Route path="/pagenotfound" element={<PageNotFound />} />
-        <Route path="*" element={<Navigate to="/pagenotfound" replace />} />
+        {/* <Route path="/pagenotfound" element={<PageNotFound />} />
+        <Route path="*" element={<Navigate to="/pagenotfound" replace />} /> */}
         <Route path="/admin/firstadmin" element={<FirstAdmin />} />
       </Routes>
     </BrowserRouter>
